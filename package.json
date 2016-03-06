@@ -1,0 +1,18 @@
+{
+  "name": "push-notifications",
+  "version": "1.0.0",
+  "description": "Push notifications codelab.",
+  "devDependencies": {
+    "eslint": "^1.8.0",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-load-plugins": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addi90/push-notifications.git"
+  },
+  "author": "Aditya SIngh",
+  "license": "Apache 2",
+  "homepage": "https://github.com/addi90/push-notifications#readme"
+}
